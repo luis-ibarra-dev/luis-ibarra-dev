@@ -1,2 +1,6 @@
-# luis-ibarra-dev
-proyecto_basico
+I'm Luis 
+
+Systems Engineering student from Bolivia
+
+Studying Systems Engineering (2nd semester)
+- Learning Python and C++
